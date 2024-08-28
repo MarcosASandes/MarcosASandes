@@ -2,7 +2,7 @@
 
 ## 👋 Sobre Mí
 
-Soy un Desarrollador Web y QA Junior con experiencia en la creación y testing de sistemas y aplicaciones. Me apasiona la tecnología y todo lo que ello conlleva, y me especializo en la creación de aplicaciones web de todo tipo. 
+Soy un Desarrollador Web y QA Junior con experiencia en la creación y testing de sistemas y aplicaciones. Me apasiona la tecnología y todo lo que ello conlleva, me especializo en la creación de aplicaciones web de todo tipo. 
 
 ## 🚀 ¿Qué Hago?
 
