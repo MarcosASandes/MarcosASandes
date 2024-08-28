@@ -14,7 +14,7 @@ Actualmente me encuentro completando mi último semestre en la Universidad ORT U
   * C#.
   * Java.
   * JavaScript.
-  * SQL.
+  * TSQL.
 - **Herramientas**:
   * **IDE/Editor de Código**: Visual Studio Code, IntelliJ IDEA, Visual Studio 2022, NetBeans.
   * **Control de Versiones**: Git, GitHub.
