@@ -6,7 +6,7 @@ Soy un Desarrollador Web y QA Junior con experiencia en la creación y testing d
 
 ## 🚀 ¿Qué Hago?
 
-Actualmente me encuentro completando mi último semestre en la Universidad ORT Uruguay, en la búsqueda de mi primera experiencia laboral en el área de la tecnología. A su vez, estoy realizando un curso sobre testing junior e inglés técnico.
+Actualmente me encuentro comenzando mi último semestre de especialización en el desarrollo de aplicaciones móviles en la Universidad ORT Uruguay, en la búsqueda de mi primera experiencia laboral en el área de la tecnología. A su vez, estoy realizando un curso sobre testing junior e inglés técnico.
 
 ## 🔧 Habilidades
 
