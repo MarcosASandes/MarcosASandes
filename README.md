@@ -2,7 +2,7 @@
 
 ## 👋 Sobre Mí
 
-Soy un Desarrollador Web y QA Junior con experiencia en la creación y testing de sistemas y aplicaciones. Me apasiona la tecnología y todo lo que ello conlleva, me especializo en la creación de aplicaciones web de todo tipo. 
+Soy un desarrollador de software con experiencia en la creación y testing de sistemas y aplicaciones. Me apasiona la tecnología y todo lo que ello conlleva, me especializo en la creación de aplicaciones web de todo tipo. 
 
 ## 🚀 ¿Qué Hago?
 
@@ -32,6 +32,5 @@ Actualmente me encuentro comenzando mi último semestre de especialización en e
 ## 📫 ¿Cómo Contactarme?
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/marcos-sandes-ba0544144/), o enviarme un correo a [marcosdev28@gmail.com](mailto:marcosdev28@gmail.com).
-Si deseas eres bienvenido/a en mi [Portfolio](https://marcos-developer.vercel.app/)
 
 Gracias por visitar mi perfil. ¡Estoy emocionado de conectar y explorar nuevas oportunidades!
