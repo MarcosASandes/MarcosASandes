@@ -1,36 +1,88 @@
-# ¡Hola! Soy Marcos!
+# 👋 ¡Hola! Soy Marcos Sandes
 
-## 👋 Sobre Mí
+Soy desarrollador de software, egresado como Analista en Tecnologías de la Información por la Universidad ORT Uruguay, enfocado en el desarrollo **Full Stack**, con especial interés en la creación de aplicaciones web y móviles. Actualmente estoy buscando mi primera experiencia profesional en el rubro de la tecnología.
 
-Soy un desarrollador de software con experiencia en la creación y testing de sistemas y aplicaciones. Me apasiona la tecnología y todo lo que ello conlleva, me especializo en la creación de aplicaciones web de todo tipo. 
+---
 
-## 🚀 ¿Qué Hago?
+## 🌐 Conectemos
 
-Actualmente me encuentro comenzando mi último semestre de especialización en el desarrollo de aplicaciones móviles en la Universidad ORT Uruguay, en la búsqueda de mi primera experiencia laboral en el área de la tecnología. A su vez, estoy realizando un curso sobre testing junior e inglés técnico.
+<p align="left">
+  <a href="https://marcodevs.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-marcodevs.vercel.app-2563EB?style=for-the-badge" />
+  </a>
 
-## 🔧 Habilidades
+  <a href="https://www.linkedin.com/in/marcos-sandes-ba0544144/">
+    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Sandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-- **Lenguajes de Programación**:
-  * C#.
-  * Java.
-  * JavaScript.
-  * TSQL.
-- **Herramientas**:
-  * **IDE/Editor de Código**: Visual Studio Code, IntelliJ IDEA, Visual Studio 2022, NetBeans.
-  * **Control de Versiones**: Git, GitHub.
-  * **Bases de Datos**: SQL Server, MongoDB.
-  * **Frameworks y Librerías**: React, Bootstrap.
-- **Tecnologías**:
-  * Entity Framework.
-  * WebApi.
-  * JWT.
-  * .NET7.
-  * GeneXus18.
-  * Redux.
+  <a href="mailto:marcosdev28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-marcosdev28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+---
 
-## 📫 ¿Cómo Contactarme?
+## 🚀 Actualmente
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/marcos-sandes-ba0544144/), o enviarme un correo a [marcosdev28@gmail.com](mailto:marcosdev28@gmail.com).
+* 📚 Estudiando Inglés.
+* 💼 Buscando mi primera experiencia profesional como Software Developer.
+* ❤️ Apasionado por crear software útil, escalable y con buen diseño.
 
-Gracias por visitar mi perfil. ¡Estoy emocionado de conectar y explorar nuevas oportunidades!
+---
+
+## 💻 Stack Tecnológico
+
+### Lenguajes
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cs,js" />
+<img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+### Bases de Datos
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### Herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,postman" />
+</p>
+
+### Otras Tecnologías
+
+<p>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GeneXus-0095D5?style=for-the-badge"/>
+</p>
+
+---
+
+## 📈 GitHub
+
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+⭐ Gracias por visitar mi perfil. Siempre estoy abierto a conectar, aprender y colaborar en nuevos proyectos.
