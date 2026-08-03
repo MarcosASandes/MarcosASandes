@@ -79,8 +79,8 @@ Soy desarrollador de software, egresado como Analista en Tecnologías de la Info
 ## 📈 GitHub
 
 <p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarcosASandes&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosASandes&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
